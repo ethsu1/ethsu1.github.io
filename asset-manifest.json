@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.33c0e026.chunk.js",
-    "main.js.map": "/static/js/main.33c0e026.chunk.js.map",
+    "main.js": "/static/js/main.d94906a0.chunk.js",
+    "main.js.map": "/static/js/main.d94906a0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9089ee33.js",
     "runtime-main.js.map": "/static/js/runtime-main.9089ee33.js.map",
     "static/css/2.ee2ae7f5.chunk.css": "/static/css/2.ee2ae7f5.chunk.css",
     "static/js/2.75c61261.chunk.js": "/static/js/2.75c61261.chunk.js",
     "static/js/2.75c61261.chunk.js.map": "/static/js/2.75c61261.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.992376a6f1a306e830eb884f01af32a7.js": "/precache-manifest.992376a6f1a306e830eb884f01af32a7.js",
+    "precache-manifest.2965c6b31a655f9f3a7a0e830cb93d73.js": "/precache-manifest.2965c6b31a655f9f3a7a0e830cb93d73.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.ee2ae7f5.chunk.css.map": "/static/css/2.ee2ae7f5.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.75c61261.chunk.js.LICENSE.txt": "/static/js/2.75c61261.chunk.js.LICENSE.txt",
     "static/media/aboutpic1.jpg": "/static/media/aboutpic1.bdb096d3.jpg",
     "static/media/aboutpic2.jpg": "/static/media/aboutpic2.c234e7cc.jpg",
+    "static/media/asapp.png": "/static/media/asapp.4a3d29d1.png",
     "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
     "static/media/datasense.png": "/static/media/datasense.810e783f.png",
     "static/media/guesstheentity.png": "/static/media/guesstheentity.418c7474.png",
     "static/media/ibmcmi.png": "/static/media/ibmcmi.c637a937.png",
+    "static/media/nvidia.png": "/static/media/nvidia.76d5dcd5.png",
     "static/media/productivityio.png": "/static/media/productivityio.9a2e019c.png",
     "static/media/rlmlexp.gif": "/static/media/rlmlexp.341e4eab.gif",
     "static/media/roomi.png": "/static/media/roomi.adfafab1.png",
@@ -31,6 +33,6 @@
     "static/css/2.ee2ae7f5.chunk.css",
     "static/js/2.75c61261.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.33c0e026.chunk.js"
+    "static/js/main.d94906a0.chunk.js"
   ]
 }
